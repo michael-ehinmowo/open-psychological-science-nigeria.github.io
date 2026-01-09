@@ -1,6 +1,7 @@
-# Embodied Computation Group Website
+# Open Psychological Science Website
 
-This is the repository for the [Embodied Computation Group](https://embodied-computation-group.github.io/) webpage. We use Jekyll to run our GitHub page.
+This is the repository for the [Open Psychological Science Nigeria](https://open-psychological-science-nigeria.github.io
+/) webpage. We use Jekyll to run our GitHub page.
 
 ## Run the page locally using Jekyll
 
@@ -43,7 +44,7 @@ Create a file named `<firstname>_<lastname>.md` in the `_people` folder with the
 ```markdown
 ---
 name: Your Name
-position: postdoc
+position: Coordinator
 avatar: your_photo.jpg
 twitter: your_handle
 joined: 2026
@@ -69,7 +70,7 @@ News items are in `_data/news.yml`. Add new items following the YAML format:
 
 ## Getting Help
 
-- For technical issues, contact Dr. Micah Allen
+- For technical issues, contact Michael Ehinmowo
 - Test locally with `jekyll serve` before pushing changes
 
 ## Credits
