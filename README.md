@@ -23,8 +23,8 @@ All posts are located in `_posts` folder. Each post can be written in markdown f
 
 ```markdown
 ---
-title: New paper on interoception
-description: Our latest paper on cardiac interoception is now published
+title: Why Open Science?
+description: The need for psychological scientists to start adopting open science practices
 categories: blog
 ---
 ```
