@@ -1,7 +1,6 @@
 # Open Psychological Science Nigeria Website
 
-This is the repository for the [Open Psychological Science Nigeria](https://open-psychological-science-nigeria.github.io
-/) webpage. We use Jekyll to run our GitHub page.
+This is the repository for the Open Psychological Science Nigeria(https://open-psychological-science-nigeria.github.io/) webpage. We use Jekyll to run our GitHub page.
 
 ## Run the page locally using Jekyll
 
