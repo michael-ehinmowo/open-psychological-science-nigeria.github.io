@@ -5,58 +5,57 @@ permalink: /about/
 
 ### About Us
 
-The Embodied Computation Group (ECG) is a multidisciplinary research lab located at Aarhus University and Cambridge Psychiatry, led by Dr Micah Allen. We investigate how our decision-making, emotion, and conscious perception are shaped by visceral and embodied processes.
+Who We Are
 
-Our team brings together expertise in computational modelling, psychophysics, physiological measurement, and advanced neuroimaging to probe the embodied brain. We are committed to open science practices and collaborative research.
+Open Psychological Science Nigeria (OPSN) is a community-driven initiative committed to advancing transparent, reproducible, and accessible psychological science in Nigeria. We aim to foster a research culture that values openness, methodological rigor, ethical responsibility, and global collaboration.
 
-### Our Approach
+OPSN brings together students, early-career researchers, clinicians, and senior academics who are interested in improving the credibility, visibility, and societal impact of psychological research conducted in Nigeria and across Africa.
 
-We combine cutting-edge methods to understand brain-body interaction:
+### Why Open Science in Nigeria?
 
-- **Computational Modelling**: Developing and testing models of visceral inference and interoceptive processing
-- **Psychophysics**: Designing behavioral experiments to probe conscious perception and decision-making
-- **Neuroimaging**: Using fMRI and other advanced imaging techniques to map neural mechanisms
-- **Physiological Measures**: Recording cardiac, respiratory, and other bodily signals to understand their influence on cognition
+Psychological science globally is undergoing a transformation in response to concerns about reproducibility, transparency, and public trust. In Nigeria, these challenges are compounded by structural constraints such as limited research funding, restricted access to journals, and uneven methodological training.
 
-### Research Themes
+Open science practices—such as preregistration, open data, open materials, and open access publishing—offer powerful tools to:
 
-Our work spans two interconnected domains:
+- Improve research credibility and reproducibility
 
-**Basic Research**: We investigate the neural mechanisms underpinning visceral inference - how the brain processes and integrates signals from the body to shape perception, emotion, and decision-making.
+- Enhance collaboration across institutions and countries
 
-**Clinical Research**: We apply our understanding of brain-body interaction to better understand populations suffering from disordered interoception and mental illness, with the goal of developing new interventions.
+- Increase the global visibility of Nigerian scholarship
 
-### Partner Institutions
+- Promote ethical and responsible research practices
 
-- **Aarhus University** - Department of Clinical Medicine
-- **Cambridge Psychiatry** - University of Cambridge
+- Democratize the production of and access to scientific knowledge
 
-### Key Collaborators
+OPSN exists to support Nigerian researchers in engaging with these practices in ways that are context-sensitive, inclusive, and sustainable.
 
-| Name | Institution | Research Focus |
-|------|-------------|----------------|
-| [Daniel Kluger](https://www.medizin.uni-muenster.de/biomag/forschung/ag-d-kluger.html) | Universität Münster | Body-brain interactions and respiration-linked perception |
-| [Ignacio Rebollo](https://www.ignaciorebollo.com/) | German Institute of Human Nutrition | Gut-brain interactions and visceral signals |
-| [Karen Kallesøe](https://pure.au.dk/portal/da/persons/karen.kallesoe%40clin.au.dk/) | Aarhus University | Functional somatic disorders and iCBT |
-| [Karl Friston](https://www.fil.ion.ucl.ac.uk/~karl/) | UCL | Free energy principle, active inference, and brain imaging |
-| [Olga Pollatos](https://www.uni-ulm.de/en/in/psy-ges/team/olga-pollatos/) | Ulm University | Interoception, health psychology, and embodied cognition |
-| [Paul Fletcher](https://neuroscience.cam.ac.uk/member/pcf22/) | Cambridge | Computational psychiatry, psychosis, and eating behavior |
-| [Per Hove Thomsen](https://pure.au.dk/portal/da/persons/per.hove.thomsen%40clin.au.dk/) | Aarhus University | Child psychiatry and ADHD |
-| [Peter Dayan](https://www.mpg.de/12309370/biological-cybernetics-dayan) | MPI Biological Cybernetics | Decision-making, neuromodulators, and theoretical neuroscience |
-| [Sahib Khalsa](https://www.uclahealth.org/providers/sahib-khalsa) | UCLA | Interoception and anxiety disorders |
-| [Stephen Fleming](https://metacoglab.org/people) | UCL | Metacognition and conscious awareness |
-| [Tobias Hauser](https://devcompsy.org/) | University of Tübingen | Developmental computational psychiatry, OCD, and ADHD |
-| [Tricia Seow](http://seowxft.github.io/) | UCL | Metacognition and computational psychiatry |
+### Our Mission
 
-### Funding
+Our mission is to promote and institutionalize open science practices within psychological research, training, and application in Nigeria.
 
-Our research is generously supported by:
+We seek to:
 
-- European Research Council
-- Lundbeck Foundation
-- Aarhus Institute of Advanced Studies
-- Cambridge Psychiatry
+- Build capacity for open and reproducible research
+
+- Support early-career researchers and students
+
+- Encourage ethical, transparent research practices
+
+### Activities
+
+OPSN engages in activities including:
+
+- Workshops and training on open science tools and practices
+
+- Public talks and seminars on transparency, ethics, and reproducibility
+
+- Resource curation (guides, templates, and learning materials)
+
+- Community building for students and early-career researchers
+
+- Collaborations with local and international research groups
+
 
 ### Contact
 
-If you're interested in our work or potential collaborations, please get in touch via email or follow us on Twitter [@visceral_mind](https://twitter.com/visceral_mind).
+If you're interested in what we do or potential collaborations, please get in touch via email openpsysci.ng@gmail.com or follow us on Twitter [@openpsysci_ng](https://twitter.com/visceral_mind](https://x.com/openpsysci_ng).
